@@ -1,18 +1,9 @@
 TypeScript Hello World Demo
 ===========================
 
+https://stackoverflow.com/questions/58434389/typescript-deep-keyof-of-a-nested-object/58436959
+
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
